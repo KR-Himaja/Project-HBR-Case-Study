@@ -2,7 +2,7 @@
 
 **Implementation and Delivery Plan of AI-2025**
 
-**Case Study** – Project Management Using HBR Case Study: SOW Creation, MS Project Scheduling, Budgeting, and Interim Closeout
+Case Study – Project Management Using HBR Case Study: SOW Creation, MS Project Scheduling, Budgeting, and Interim Closeout
 
 **Extensive Use of MS Project:** Leveraged MS Project for task sheet views, Gantt charts, milestone tracking, cost analysis, and resource management.
 Focus on Project Charter: Ensured strict adherence to the project charter throughout the lifecycle, regularly monitoring KPIs and budget adjustments to align with project goals.
