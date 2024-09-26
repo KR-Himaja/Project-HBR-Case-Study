@@ -2,13 +2,13 @@
 
 ## **Implementation and Delivery Plan of AI-2025**
 
-### **Case Study – Project Management Using HBR Case Study: SOW Creation, MS Project Scheduling, Budgeting, and Interim Closeout**
+**Case Study – Project Management Using HBR Case Study: SOW Creation, MS Project Scheduling, Budgeting, and Interim Closeout**
 - Extensive Use of MS Project: Leveraged MS Project for task sheet views, Gantt charts, milestone tracking, cost analysis, and resource management.
 - Focus on Project Charter: Ensured strict adherence to the project charter throughout the lifecycle, regularly monitoring KPIs and budget adjustments to align with project goals.
 - Proactive Gap Resolution: Actively addressed information gaps by conducting stakeholder interviews, workshops, and risk assessments.
 - Comprehensive Project Management: Managed all phases of project planning, execution, and closeout with MS Project, optimizing resource allocation and budget management.
 
-### **Statement of Work (SOW):**
+**Statement of Work (SOW):**
 - Project Charter Creation: Developed a new Project Charter that defines the IT group's role and outlines your leadership strategy.
 - Success Measurement: Established success metrics aligned with the broader company objectives.
 - Information Gaps Documentation: Identified and documented critical information gaps necessary for project success.
