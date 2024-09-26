@@ -1,6 +1,6 @@
 # **Project-HBR-Case-Study-Project Management**
 
-# **Implementation and Delivery Plan of AI-2025**
+## **Implementation and Delivery Plan of AI-2025**
 
 **Case Study – Project Management Using HBR Case Study: SOW Creation, MS Project Scheduling, Budgeting, and Interim Closeout**
 
